@@ -1,0 +1,14 @@
+layout_spectrum: 0.7872341
+typography_spectrum: 0.3104076
+color:
+  lightness: 0.7127659
+  brandStrength: 1
+  saturation: 0.3234043
+  rhythmicContrast: 0.4021277
+  brandColors:
+    - '#466583'
+    - '#7E9BAD'
+    - '#0A0606'
+    - '#EBC9A5'
+    - '#C49871'
+name: MadeByJames
