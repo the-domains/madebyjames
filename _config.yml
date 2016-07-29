@@ -1,14 +1,26 @@
 layout_spectrum: 0.7872341
-typography_spectrum: 0
+name: MadeByJames
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.3085106
   brandStrength: 0.4808511
   saturation: 0.6042553
-  rhythmicContrast: 0.7276596
   brandColors:
     - '#466583'
     - '#7E9BAD'
     - '#0A0606'
     - '#EBC9A5'
     - '#C49871'
-name: MadeByJames
+  lightness: 0.3085106
+  rhythmicContrast: 0.7276596
+typography_spectrum: 0.6680851
