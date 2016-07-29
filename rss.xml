@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[MadeByJames]]></title>
         <description><![CDATA[MadeByJames]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/madebyjames/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jul 2016 22:12:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jul 2016 08:56:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/madebyjames/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1c3cdf7-afce-4276-9553-dc8eb67c16d1.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1c3cdf7-afce-4276-9553-dc8eb67c16d1.jpg</link>
+            <guid isPermaLink="false">b78e21ea-baaa-46a9-bf61-918fe762ea9b</guid>
+            <pubDate>Fri, 29 Jul 2016 08:56:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Melbourne After Dark]]></title>
             <description><![CDATA[<article><h1>Melbourne After Dark</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cb5eb28c-6a17-4328-93e4-c4b504abd573.jpg"></article>]]></description>
