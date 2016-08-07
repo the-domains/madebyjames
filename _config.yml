@@ -1,4 +1,4 @@
-layout_spectrum: 1
+layout_spectrum: 0.5085106
 name: MadeByJames
 collections:
   - index:
@@ -12,15 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5382979
 color:
   brandStrength: 1
-  lightness: 0.7191489
-  saturation: 1
-  rhythmicContrast: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
   brandColors:
     - '#FFFEC2'
     - '#160313'
     - '#753969'
     - '#FF8D7F'
     - '#B10101'
+typography_spectrum: 0.5382979
