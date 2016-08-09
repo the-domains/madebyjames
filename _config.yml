@@ -31,3 +31,6 @@ navigation:
   - name: Melbourne After Dark
     id: aef3569d-ae33-4219-bfa6-46ccc8d85fcf
     type: content
+  - name: Princes Pier Posts
+    id: 53c66ddd-256b-47a6-9342-a8237a97df1a
+    type: content
