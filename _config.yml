@@ -24,3 +24,7 @@ color:
     - '#E2F0D6'
     - '#F6FFE0'
 typography_spectrum: 0.24449763726443052
+navigation:
+  - name: '#Herbie'
+    id: 338d275a-b1d4-4316-959e-6181a706268a
+    type: content
