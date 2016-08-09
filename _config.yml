@@ -28,3 +28,6 @@ navigation:
   - name: '#Herbie'
     id: 338d275a-b1d4-4316-959e-6181a706268a
     type: content
+  - name: Melbourne After Dark
+    id: aef3569d-ae33-4219-bfa6-46ccc8d85fcf
+    type: content
